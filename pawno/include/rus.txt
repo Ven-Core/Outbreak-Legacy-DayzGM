@@ -1,0 +1,33 @@
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1741) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1748) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_MENUS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1754) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1760) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1766) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1774) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1781) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1787) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1802) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1808) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1820) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1826) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1832) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1838) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1844) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1860) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1869) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1877) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1885) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1892) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(1900) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(2671) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "INVALID_PLAYER_ID"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(2779) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawCreate"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(2793) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawCreate"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(2807) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawCreate"
+e:\SAMP PROJECTS\Zombie DayZ\pawno\include\fixes.inc(2821) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawCreate"
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.
