@@ -1,8 +1,6 @@
 # Zombie DayZ Modified By VenThings
 
-You can use it anytime. i leak it just because i'm quiting samp and this gamemode will be abandoned so i decided to leak to or open source it
-so everyone can use it, actually this is open source but the gamemode itself is not working so i fix it and this is the fixed version and updated
-version.
+It is available at any moment. I chose to leak it or make it open source so that anyone could use it because I'm leaving SA:MP and this gamemode will be discontinued. Although it is open source, the gamemode itself is broken, so I patched it, and this is the updated and fixed version.
 
 ## Heyyylooooo.!
 * [Original](https://github.com/AaronNader96/Project-DayZ-SAMP)
