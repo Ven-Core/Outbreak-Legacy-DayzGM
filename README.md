@@ -7,6 +7,11 @@ It is available at any moment. I chose to leak it and make it open source so tha
 * [Original](https://github.com/AaronNader96/Project-DayZ-SAMP) 📦
 * Rescripted By: [Hydrax/Venthings](https://www.facebook.com/xvennnnnn/) 🔧
 
+<a href="https://github.com/Ven-Core"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p><p align="left">
+<a href="https://www.facebook.com/xvennnnnn/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+</p><p align="left">
+
 # Previews
 
 ![image](https://github.com/VenThings/Outbreak-Legacy-DayzGM/assets/128896997/24dc02b2-ba9d-4e40-9fd4-8bb394c76e13)
